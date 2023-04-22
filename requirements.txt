@@ -1,5 +1,8 @@
 deep_phonemizer
 matplotlib
+mir_eval
+pesq
+pystoi
 torch --index-url https://download.pytorch.org/whl/cu117
 torchvision --index-url https://download.pytorch.org/whl/cu117
 torchaudio --index-url https://download.pytorch.org/whl/cu117
