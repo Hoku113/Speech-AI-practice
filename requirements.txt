@@ -3,6 +3,7 @@ matplotlib
 mir_eval
 pesq
 pystoi
+soundfile
 torch --index-url https://download.pytorch.org/whl/cu117
 torchvision --index-url https://download.pytorch.org/whl/cu117
 torchaudio --index-url https://download.pytorch.org/whl/cu117
